@@ -1,0 +1,109 @@
+.container{
+    display: flex;
+    align-items: end;
+   
+}
+#main{
+    border-bottom: 2px solid black;
+}
+ li{
+text-transform: capitalize;
+}
+li a {
+    color: black;
+    text-decoration: none;
+    margin-left:15px ;
+}
+li a:hover{
+    color: rgba(14, 128, 210, 0.999);
+}
+
+.color{
+    color: rgb(78, 243, 78);
+ 
+}
+h2{
+    margin-top: 30PX;
+}
+#block{
+    display: block;
+    color: rgb(78, 243, 78) ;
+
+}
+#pic{
+    background-color: rgba(30, 221, 30, 0.378);
+    height: 60PX;
+
+}
+input{
+    margin-bottom: 15PX;
+}
+H6{
+    margin-bottom: 15px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    font-size: xx-small;
+    width: 60px;
+    text-align: center;
+    padding-top:10px ;
+}
+#bank{
+    height: 40px;
+    width: 400px;
+    background-color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 10px 10px;
+    font-weight: 650;
+    text-transform: capitalize;
+}
+.med{
+    height: 40px;
+    width: 250px;
+    background-color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 10px 10px;
+    text-transform: capitalize;
+    font-weight: 600;
+
+}
+.card{
+    display: inline-block;
+}
+
+.text-color{
+    color: rgb(73, 73, 235);
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#name{
+    color: rgba(0, 0, 255, 0.662);
+}
+.pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+#sub{
+    width: 490px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-left: 210px;
+    margin-top: 0px;
+}
+#footer{
+ position: relative;
+ left: 400px;
+}
+#footer-2{
+    position: relative;
+    LEFT: 850PX;
+}
